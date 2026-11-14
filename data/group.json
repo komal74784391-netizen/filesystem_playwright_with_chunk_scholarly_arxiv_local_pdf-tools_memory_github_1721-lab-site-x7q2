@@ -1,0 +1,17 @@
+{
+  "group_name": "Nordlys Genome Group",
+  "tagline": "Strain-resolved metagenomics for cold and low-biomass environments",
+  "location": "Tromsø, Norway",
+  "founded": 2019,
+  "contact": {
+    "email": "anja.halvorsen@nordlyslab.no",
+    "address": "Storgata 12, 9008 Tromsø, Norway",
+    "web": "https://nordlyslab.example"
+  },
+  "research_themes": [
+    "Strain-resolved metagenomics of marine and soil microbiomes",
+    "Long-read sequencing and hybrid genome assembly",
+    "Virome discovery and host prediction",
+    "Portable, low-cost pathogen surveillance"
+  ]
+}

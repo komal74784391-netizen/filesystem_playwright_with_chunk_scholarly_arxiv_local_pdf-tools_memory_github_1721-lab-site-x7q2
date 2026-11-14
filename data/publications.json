@@ -1,0 +1,167 @@
+{
+  "registry": "Nordlys Genome Group publication registry",
+  "schema_version": 3,
+  "last_synced": "2026-11-09",
+  "notes": "Canonical export of the group bibliography. Site entries mirror this file.",
+  "records": [
+    {
+      "id": "NGG-2021-003",
+      "title": "A k-mer sketching approach for rapid taxonomic profiling of low-biomass samples",
+      "status": "published",
+      "published": "2021-09-20",
+      "venue": "Microbiome",
+      "year": 2021,
+      "link": "https://doi.org/10.1186/s40168-021-01160-4",
+      "authors": [
+        {
+          "name": "Anja Halvorsen",
+          "equal_contribution": true
+        },
+        {
+          "name": "Tobias Reuter",
+          "equal_contribution": true
+        },
+        {
+          "name": "Lena Petrov",
+          "equal_contribution": false
+        }
+      ],
+      "highlights": [
+        "Sketch-based classifier runs in under two minutes on a laptop.",
+        "Maintains 0.92 F1 on mock communities down to 10^2 reads."
+      ]
+    },
+    {
+      "id": "NGG-2023-009",
+      "title": "Metagenome-assembled genomes reveal a widespread nitrogen-fixing symbiosis in boreal mosses",
+      "status": "published",
+      "published": "2023-02-06",
+      "venue": "Nature Microbiology",
+      "year": 2023,
+      "link": "https://doi.org/10.1038/s41564-023-01425-1",
+      "authors": [
+        {
+          "name": "Anja Halvorsen",
+          "equal_contribution": false
+        },
+        {
+          "name": "Ida Kaasa",
+          "equal_contribution": false
+        },
+        {
+          "name": "Petter Nyström",
+          "equal_contribution": false
+        }
+      ],
+      "highlights": [
+        "MAGs from 312 moss samples define a previously undescribed diazotrophic partner.",
+        "Nitrogen fixation confirmed with 15N isotope tracing."
+      ]
+    },
+    {
+      "id": "NGG-2024-014",
+      "title": "Decoding the virome: reference-free strain resolution at scale",
+      "status": "published",
+      "published": "2024-05-14",
+      "venue": "Cell Host & Microbe",
+      "year": 2024,
+      "link": "https://doi.org/10.1016/j.chom.2024.03.011",
+      "authors": [
+        {
+          "name": "Anja Halvorsen",
+          "equal_contribution": true
+        },
+        {
+          "name": "Mikkel Bruun",
+          "equal_contribution": true
+        },
+        {
+          "name": "Sofia Lindqvist",
+          "equal_contribution": false
+        }
+      ],
+      "highlights": [
+        "Graph-based assembly resolves strain haplotypes without reference genomes.",
+        "Recovers 3.1x more novel crAssphage lineages across 1,204 metagenomes."
+      ]
+    },
+    {
+      "id": "NGG-2025-017",
+      "title": "Long-read sequencing resolves hidden microdiversity in the global ocean virome",
+      "status": "published",
+      "published": "2025-10-02",
+      "venue": "Nature Biotechnology",
+      "year": 2025,
+      "link": "https://doi.org/10.1038/s41587-025-01917-4",
+      "authors": [
+        {
+          "name": "Hanna Ødegård",
+          "equal_contribution": true
+        },
+        {
+          "name": "Anja Halvorsen",
+          "equal_contribution": true
+        },
+        {
+          "name": "Mikkel Bruun",
+          "equal_contribution": false
+        },
+        {
+          "name": "Priya Raman",
+          "equal_contribution": false
+        }
+      ],
+      "highlights": [
+        "Reports a 2.7-fold gain in strain-level recall on 918 global ocean viromes.",
+        "Recovers 184 previously unassigned viral clusters from long-read assemblies."
+      ]
+    },
+    {
+      "id": "NGG-2024-021",
+      "title": "A portable toolkit for real-time pathogen surveillance in wastewater",
+      "status": "published",
+      "published": "2024-11-21",
+      "venue": "The Lancet Microbe",
+      "year": 2024,
+      "link": "https://doi.org/10.1016/S2666-5247(24)00231-7",
+      "authors": [
+        {
+          "name": "Sofia Lindqvist",
+          "equal_contribution": true
+        },
+        {
+          "name": "Anja Halvorsen",
+          "equal_contribution": true
+        },
+        {
+          "name": "Tobias Reuter",
+          "equal_contribution": false
+        }
+      ],
+      "highlights": [
+        "Detects targets within 6 hours from sampling to result.",
+        "Achieves 0.94 AUC on 460 field wastewater samples."
+      ]
+    },
+    {
+      "id": "NGG-2026-002",
+      "title": "Toward a pangenome of the Svalbard permafrost microbiome",
+      "status": "in_preparation",
+      "published": "2026-10-30",
+      "venue": "In preparation",
+      "year": 2026,
+      "link": "",
+      "authors": [
+        {
+          "name": "Anja Halvorsen",
+          "equal_contribution": false
+        },
+        {
+          "name": "Ida Kaasa",
+          "equal_contribution": false
+        }
+      ],
+      "highlights": []
+    }
+  ]
+}
